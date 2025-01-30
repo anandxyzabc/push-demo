@@ -1,4 +1,4 @@
 # push-demo
- git github
+ git github tutorial
 <br>
 this is git file
