@@ -1,4 +1,4 @@
 # push-demo
-anand git github
+ git github
 <br>
 this is git file
